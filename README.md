@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="docs/images/timefly_header.png" alt="TimeFly" width="400">
+  <h1>⏳ TimeFly</h1>
 </div>
 
 <div align="center">
