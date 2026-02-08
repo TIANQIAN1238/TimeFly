@@ -1,0 +1,30 @@
+*.dmg
+*.DS_Store
+.DS_Store
+TimeFly/build*
+*.xcuserstate
+xcuserdata/
+LLMEvalScript.swift
+TimeFly/eval/
+evals/
+build/
+build_tmp/
+build_universal/
+.claude/
+scripts/release.env
+signed/
+
+# Ignore Claude prompt notes
+CLAUDE.md
+claude.md
+
+# Tauri migration (WIP)
+timefly-tauri/
+agents.md
+
+# Internal tools
+tools/
+
+# Eval frameworks
+claudeeval/
+codexeval/
